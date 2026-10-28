@@ -9,3 +9,6 @@ y=8/2
 
 #Substraction 
 
+#Multiplpcation 
+
+c=3*4
