@@ -1,4 +1,9 @@
 #!/bin/bash 
 
 # Addition of the two numbers 
-x=1+2+3`
+x=1+2+3
+
+
+#Multiplpcation 
+
+c=3*4
